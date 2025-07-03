@@ -12,12 +12,7 @@ I have a good eye for design and interface logic, often combining front-end skil
 
 ## 🌐 Socials
 
-[![VK](https://img.shields.io/badge/VK-%231877F2.svg?style=flat-square&logo=vk&logoColor=white)](https://vk.com/s3ksnepredlagatmoguneotkazatsa)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/NikitaRyabtsev)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nikita__ryabtsev__/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/696456511727075348)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nekit100118@gmail.com)  
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://portfolio-website-pied-eight.vercel.app/)
+[![VK](https://img.shields.io/badge/VK-%231877F2.svg?style=flat-square&logo=vk&logoColor=white)](https://vk.com/s3ksnepredlagatmoguneotkazatsa) - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/NikitaRyabtsev) - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nikita__ryabtsev__/) - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/696456511727075348) - [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nekit100118@gmail.com) - [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://portfolio-website-pied-eight.vercel.app/)
 
 # 💻 Tech Stack:
 - ⚛️ React, React Router, Hooks, Vue
