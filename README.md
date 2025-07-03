@@ -2,7 +2,7 @@
 
 ---
 
-My name is Nikita Ryabtsev. I'm a skilled frontend developer and junior graduate specialist with a strong passion for creating modern, interactive, and visually appealing web applications.
+My name is Nikita Ryabtsev. I'm a skilled fullstack developer and junior graduate specialist with a strong passion for creating modern, interactive, and visually appealing web applications.
 
 I have a good eye for design and interface logic, often combining front-end skills with tools like **Figma**, **Photoshop**, and **GIMP** to create complete UI/UX flows.
 
